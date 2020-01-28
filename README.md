@@ -1,6 +1,6 @@
 # Email-Alert-Tool
 
-The initial goal for this tool is to be able to send an email based on a
+The initial goal for this tool was to be able to send an email based on a
 condition being met.
 
 At present, the tool is able to:
